@@ -30,5 +30,4 @@ int lengthOfLongestSubstring(string s) {
     }
     return ans;
 }
-}
-;
+
